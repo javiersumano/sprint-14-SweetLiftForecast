@@ -15,12 +15,12 @@ SweetLiftForecast es un modelo de aprendizaje automático diseñado para predeci
 
 📂 Tecnologías utilizadas:
 
-Python 🐍
+* Python 🐍
 * Pandas, NumPy para manipulación de datos
   
-*Scikit-learn, LightGBM, XGBoost, CatBoost para modelado
+* Scikit-learn, LightGBM, XGBoost, CatBoost para modelado
 
-*Jupyter Notebook para experimentación
+* Jupyter Notebook para experimentación
 
 🚀 Este modelo permitirá mejorar la experiencia de los conductores y reducir los tiempos de espera en aeropuertos!
 
