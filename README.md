@@ -1,6 +1,5 @@
 # sprint-14-SweetLiftForecast
-Descripción del Proyecto (README breve):
-TaxiDemandPredictor es un modelo de aprendizaje automático diseñado para predecir la cantidad de pedidos de taxis en aeropuertos en la próxima hora. Este proyecto busca optimizar la asignación de conductores durante las horas pico, mejorando la eficiencia del servicio de Sweet Lift Taxi.
+SweetLiftForecast es un modelo de aprendizaje automático diseñado para predecir la cantidad de pedidos de taxis en aeropuertos en la próxima hora. Este proyecto busca optimizar la asignación de conductores durante las horas pico, mejorando la eficiencia del servicio de Sweet Lift Taxi.
 
 📌 Objetivos:
 ✅ Procesar y remuestrear los datos en intervalos de una hora.
